@@ -1,0 +1,16 @@
+name: Financial-Agent
+id: ari:cloud:compass:e0855f33-60c6-435f-81a9-da64c34a26ba:component/f3bc85a1-f26c-463a-89ab-de252edd0ccf/b978b8c1-3e3e-425e-a74c-91e673d30777
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/jimmytrivedi/Financial-Agent
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
