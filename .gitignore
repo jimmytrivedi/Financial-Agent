@@ -1,0 +1,8 @@
+.env
+/log.txt
+/output.csv
+/code.zip
+__pycache__/
+.cache/
+.idea/
+.DS_Store
